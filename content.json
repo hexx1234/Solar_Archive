@@ -1,0 +1,79 @@
+{
+  "worlds": {
+    "main": {
+      "characters": {
+        "nova": {
+          "name": "노바",
+          "gender": "",
+          "age": "",
+          "personality": "",
+          "role": "",
+          "story": "",
+          "standing": "",
+          "gallery": []
+        },
+        "lunetra": {
+          "name": "루네트라",
+          "gender": "",
+          "age": "",
+          "personality": "",
+          "role": "",
+          "story": "",
+          "standing": "",
+          "gallery": []
+        }
+      },
+      "relations": [
+        {
+          "story": "",
+          "aToB": "",
+          "bToA": ""
+        }
+      ],
+      "timeline": []
+    },
+    "circus": {
+      "characters": {
+        "nova": {
+          "name": "노바",
+          "gender": "",
+          "age": "",
+          "personality": "",
+          "role": "서커스 단장",
+          "story": "",
+          "standing": "",
+          "gallery": []
+        },
+        "lunetra": {
+          "name": "루네트라",
+          "gender": "",
+          "age": "",
+          "personality": "",
+          "role": "저글러",
+          "story": "어린 시절 루네트라는 서커스단에서 노바를 만나 저글링 재능을 발견했다.",
+          "standing": "",
+          "gallery": []
+        }
+      },
+      "relations": [
+        {
+          "story": "노바는 서커스단 단장이고 루네트라는 그의 단원이다.",
+          "aToB": "",
+          "bToA": ""
+        }
+      ],
+      "timeline": [
+        {
+          "date": "01",
+          "title": "첫 만남",
+          "description": "어린 루네트라가 서커스단의 물건을 치우던 중 노바를 만났다."
+        },
+        {
+          "date": "02",
+          "title": "저글링의 재능",
+          "description": "노바가 그녀의 재능을 발견했다."
+        }
+      ]
+    }
+  }
+}
